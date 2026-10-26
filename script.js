@@ -22,9 +22,9 @@ const SUB = [
   ['Home Science', '🏠', 'Everyday science of nutrition, care and home management.']
 ];
 const IMG = [
-  { s: 'images/divine-classroom.jpg', w: 1041, h: 1400, p: 'center 30%', c: 'Divine Classroom', a: 'Classroom with rows of blue desk-chairs and a Divine Classroom sign above a shelf of books' },
-  { s: 'images/divine-neon.jpg', w: 875, h: 1400, p: 'center 35%', c: 'Divine entrance', a: 'Glowing Divine neon sign above a potted palm lit in green' },
-  { s: 'images/divine-session.jpg', w: 1400, h: 1058, p: '30% center', c: 'A session at Divine Institute', a: 'Instructor holding a framed certificate beside a student in front of a whiteboard, with seated students applauding' }
+  { s: './divine-classroom.jpg', w: 1041, h: 1400, p: 'center 30%', c: 'Divine Classroom', a: 'Classroom with rows of blue desk-chairs and a Divine Classroom sign above a shelf of books' },
+  { s: './divine-neon.jpg', w: 875, h: 1400, p: 'center 35%', c: 'Divine entrance', a: 'Glowing Divine neon sign above a potted palm lit in green' },
+  { s: './divine-session.jpg', w: 1400, h: 1058, p: '30% center', c: 'A session at Divine Institute', a: 'Instructor holding a framed certificate beside a student in front of a whiteboard, with seated students applauding' }
 ];
 const RESOURCES = []; /* real notes go here */
 const CL = { '10': 'Class 10', '12': 'Class 12', any: 'Class to be confirmed' };
